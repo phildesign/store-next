@@ -1,1 +1,1 @@
-# store-next
+# Store Next.js
